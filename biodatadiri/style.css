@@ -1,0 +1,38 @@
+body {
+  background-color: #EAF1F8;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+h1 {
+  color: #1F4E79;
+  text-align: center;
+  font-size: 28px;
+}
+
+p {
+  color: #444444;
+  font-size: 16px;
+}
+
+#kartu-biodata {
+  background-color: white;
+}
+
+.label {
+  color: #1F4E79;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.motto {
+  color: #2E75B6;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #FFF2CC;
+}
+
+.nilai {
+  color: #222222;
+  font-size: 16px;
+}
