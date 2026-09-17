@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e2e2e2;
+  color: #333333;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+
+.kartu-produk {
+  box-sizing: border-box;
+  width: 300px;
+  padding: 16px;
+  border: 2px solid #000000;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+.kartu-produk h2 {
+  font-size: 18px;
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.kartu-produk .deskripsi {
+  font-size: 14px;
+  color: #555555;
+  line-height: 1.4;
+  margin-bottom: 12px;
+}
+
+.kartu-produk .harga {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 0;
+}
